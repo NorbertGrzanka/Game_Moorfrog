@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Norbi/CLionProjects/Frogger/main.cpp
+iostream
+-
+
+C:/Users/Norbi/CLionProjects/Frogger/plansza.cpp
+plansza.h
+C:/Users/Norbi/CLionProjects/Frogger/plansza.h
+iostream
+-
+
+C:/Users/Norbi/CLionProjects/Frogger/plansza.h
+vector
+-
+
+C:/Users/Norbi/CLionProjects/Frogger/pole.cpp
+pole.h
+C:/Users/Norbi/CLionProjects/Frogger/pole.h
+
+C:/Users/Norbi/CLionProjects/Frogger/pole.h
+
+C:/Users/Norbi/CLionProjects/Frogger/zaba.cpp
+zaba.h
+C:/Users/Norbi/CLionProjects/Frogger/zaba.h
+
+C:/Users/Norbi/CLionProjects/Frogger/zaba.h
+
